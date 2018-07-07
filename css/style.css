@@ -1,0 +1,58 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+section {
+  width: 100%;
+  margin: 0 auto;
+}
+
+p{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ul{
+  border: 1px solid black;
+  float: left;
+  width: 7%;
+  padding: 0px;
+}
+
+ul li{
+  list-style: none;
+  padding: 5px 10px;
+  /* border-bottom: 1px solid black; */
+}
+
+.center{
+  width: 22%;
+}
+
+.country, .state{
+  width: 6%;
+}
+
+.location{
+  width: 17%;
+}
+
+.city{
+  width: 18%;
+}
+
+.zipcode{
+  width:12%;
+}
+
+.weather{
+  width: 18%;
+}
+
+.city li, .weather li{
+  list-style: decimal;
+}
