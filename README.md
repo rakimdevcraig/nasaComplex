@@ -3,7 +3,7 @@ This app displays Nasa center information along with the weather for each NASA c
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/nasaComplex/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, API
